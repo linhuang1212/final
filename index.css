@@ -1,0 +1,56 @@
+#title{
+    color: #0066B3;
+    margin-left: 180px;
+    font-family: sans-serif;
+    font-size: 30px;;
+}
+.nav-link{
+    color: #0066B3;
+
+}
+
+.title-img{
+    margin-left: 50px;
+}
+
+.col-3{
+margin-left: 10px;
+}
+
+
+#meal-title{
+    font-size: 30px;
+}
+
+#name{
+    text-align: center;
+    font-size:20px;
+}
+
+.text-primary{
+    font-size:25px;
+}
+
+.tab-content{
+    font-size:20px;
+}
+
+#main-content{
+    margin-top:100px;
+    font-size: 30px;
+}
+
+
+#yes{
+    margin-left:100px;
+}
+
+#no{
+    margin-left: 400px;
+}
+
+.note{
+    color: red;
+    font-size: 20px;
+}
+

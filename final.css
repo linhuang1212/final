@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    margin-top: 100px;;
+}
+
+body{
+    background:url('background.JPG') no-repeat;
+    background-size: 100%;
+    color: black;
+  }
+
+  #loginForm{
+      display: none;
+  }
+
+  h1{
+      margin-bottom: 50px;
+  }
+
+  .toggleForms{
+      font-weight: bold;
+      color: white;
+  }
+  p{
+      font-weight: bold;
+  }
